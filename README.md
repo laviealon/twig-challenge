@@ -75,4 +75,4 @@ are executed at runtime.
 
 ---
 
-Copyright (c) Alon Lavie 2022
+Copyright &copy; Alon Lavie 2022
