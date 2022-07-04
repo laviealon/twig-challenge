@@ -11,7 +11,7 @@ and run ``main.py``. Ensure you have Python installed on your machine.
 
 After navigating to the directory you want the project in, clone with
 
-``$ git clone <URL>``
+``$ git clone https://github.com/laviealon/twig-challenge.git``
 
 ## Explanation ##
 
